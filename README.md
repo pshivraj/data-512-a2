@@ -101,5 +101,9 @@ This assignment code is released under the MIT License.
 
 # Writeup
 
+This particular excercise was very helpful in understanding how fine intricacies of a data set is lost when we try to merge different data sources together. The population data is quite rich however wikipedia page data is not quite reflective of the overall population.
+Joining these two resources to analyze led to elimination of data points which might lead to Bias owing to incomplete rationale for disregarding data points.
+One potential source of bias could be how page data might not be quite reflective of the true population behavior. Since we see there is quite some significant difference in population and though ratio based analysis can be considered a good normalization this is not sufficient to conclude that how that sample population truly represent the true population. Since we are not aware of who is writing such posts and how influential are these people in their own country its inappropriate to infer about a countries political content based on a sample which we are not sure if its a true representative or not.
+Additionally ORES Api which is used to benhmark articles quality is by itself flawed as a closer look at their methodology revels the prediction of scores is based on articles structure and not the content, which is quite misleading as to how this can be considered as content scorer and not template scorer. 
 
 
