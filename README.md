@@ -97,7 +97,7 @@ Analysis of articles. This purpose of this step was to explore the article to ch
  - 10 lowest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country.
 
 # License
-This assignment code and Data is released under the MIT License.
+This assignment code and Data is released under the [MIT License](https://github.com/pshivraj/data-512-a2/blob/master/LICENSE).
 
 # Writeup
 
